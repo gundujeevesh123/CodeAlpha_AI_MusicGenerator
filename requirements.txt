@@ -1,0 +1,6 @@
+numpy
+music21
+flask
+torch
+torchvision
+torchaudio
